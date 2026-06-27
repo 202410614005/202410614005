@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C84B31,100:6C63FF&height=200&section=header&text=Muhammed%20Hamza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C84B31,100:6C63FF&height=200&section=header&text=Hamza&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Researcher%20%7C%20Builder&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=Python+Developer+%F0%9F%90%8D;C%23+%26+.NET+Enthusiast+%E2%9A%A1;Flutter+Mobile+Dev+%F0%9F%93%B1;Ruby+on+Rails+Builder+%F0%9F%9A%82;Always+Learning+New+Things+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=Machine+Learning+Engineer+%F0%9F%A4%96;AI+Researcher+%26+Explorer+%F0%9F%A7%A0;Python+%26+Data+Science+%F0%9F%90%8D;Building+AI+Solutions+%F0%9F%9A%80;Curious+Mind%2C+Always+Learning+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=202410614005&color=FF6B6B&style=for-the-badge&label=Profile+Views)
 
@@ -14,12 +14,12 @@
 
 ```python
 developer = {
-    "name":       "Muhammed Hamza Erhan",
+    "name":       "Hamza",
     "languages":  ["Python", "C#", "Dart", "Ruby", "JavaScript", "SQL"],
     "frameworks": ["Flutter", ".NET", "Ruby on Rails"],
     "databases":  ["MySQL", "PostgreSQL", "SQLite"],
-    "interests":  ["AI / Automation", "Mobile Dev", "Full Stack", "Open Source"],
-    "currently":  "Building cool stuff 🔨",
+    "interests":  ["Machine Learning", "AI Research", "Data Science", "Automation"],
+    "currently":  "Exploring AI & Building cool stuff 🔬",
     "contact":    "hamzaerhanofficial@gmail.com"
 }
 ```
@@ -35,6 +35,12 @@ developer = {
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Frameworks & Platforms
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -89,7 +95,7 @@ developer = {
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"The best way to predict the future is to invent it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:C84B31,100:FF6B6B&height=100&section=footer" width="100%"/>
 
